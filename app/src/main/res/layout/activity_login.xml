@@ -128,7 +128,7 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/editTextTextPassword"
         app:layout_constraintStart_toStartOf="@+id/editTextTextPassword"
-        tools:ignore="HardcodedText,MissingConstraints,SpUsage,TextSizeCheck,TouchTargetSizeCheck"
+        tools:ignore="HardcodedText,MissingClass,MissingConstraints,SpUsage,TextSizeCheck,TouchTargetSizeCheck"
         tools:layout_editor_absoluteY="417dp" />
 
     <TextView
@@ -161,6 +161,6 @@
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/textView6"
         app:layout_constraintStart_toStartOf="@+id/textView6"
-        tools:ignore="HardcodedText"
+        tools:ignore="HardcodedText,MissingConstraints"
         tools:layout_editor_absoluteY="513dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
